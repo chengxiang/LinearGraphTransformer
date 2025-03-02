@@ -22,3 +22,15 @@ The train/val/test data can be downloaded here:
 Alternatively, you can also generate the data yourself using the [code found here](https://github.com/xbresson/CS6208_2023/blob/main/codes/labs_lecture09/01_generate_molecular_datasets.ipynb).
 
 Code for base Graph Transformer implementation is taken from https://github.com/xbresson/CS6208_2023
+
+
+
+<h2>Synthetic Experiments</h2>
+The files for the the synthetic experiments are found under the synthetic folder:
+
+- electric_experiment_synthetic.ipynb runs the experiments for electric/resistance/heat problems
+- electric_experiment_plot does the plotting
+- ev_experiment_synthetic.ipynb runs the experiments for eigenvector computation
+- ev_experiment_plot.ipynb does the plotting
+
+The code in electric_experiment_synthetic is pretty messy (sorry), email me if you need help parsing the code.
